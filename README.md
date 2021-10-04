@@ -1,3 +1,3 @@
 # masonry-with-filter
 
-## Demo :  https://kawsarbinsiraj.github.io/masonry-with-filter/
+## Demo :  https://asrafulhoque.github.io/masonry-filter-gallary/
